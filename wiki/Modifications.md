@@ -123,12 +123,12 @@ adb install -r aligned.apk
 
 #### Changing Default IP by [tarokeitaro](https://github.com/AlienWolfX/UZ801-USB_MODEM/issues/11#issuecomment-2473418269)
 
+> [!NOTE]
+> Use VS Code's global search and replace feature (Ctrl+Shift+H) to find and replace all instances efficiently.
+
 1. Replace IP addresses in the decompiled APK:
    - Search for all instances of `192.168.100.` in the `MifiService` folder
    - Replace with your desired IP range (e.g., `192.168.1.` or `192.168.0.`)
-
-   > [!NOTE]
-   > Use VS Code's global search and replace feature (Ctrl+Shift+H) to find and replace all instances efficiently.
 
 2. Recompile the APK:
 
@@ -162,9 +162,6 @@ busybox vi /system/bin/initmifiservice.sh
 ```
 
    Find line 22: `ifconfig br0 192.168.100.1 up` and change the IP to match your chosen range.
-
-   > [!NOTE]
-   > This script sets the bridge interface IP. Make sure it matches your APK modifications.
 
 7. Pull the Android services framework:
 
