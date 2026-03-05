@@ -11,7 +11,8 @@
 
 ### Prerequisites
 
-- Download [`openwrt-UZ801.tar.xz`](https://github.com/AlienWolfX/UZ801-USB_MODEM/releases) from releases
+- Download [`OpenWRT-UZ801_2026.tar.xz
+`](https://github.com/AlienWolfX/HandsomeMod-UZ801/releases) from releases
 - Ensure device is in EDL mode
 - Backup your current firmware (recommended)
 
@@ -20,7 +21,8 @@
 1. Extract the archive:
 
 ```bash
-tar xf openwrt-UZ801.tar.xz
+tar xf OpenWRT-UZ801_2026.tar.xz
+
 cd OpenWRT-UZ801
 ```
 
