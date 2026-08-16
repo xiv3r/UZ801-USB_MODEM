@@ -10,15 +10,12 @@
 - [Troubleshooting](https://github.com/AlienWolfX/UZ801-USB_MODEM/wiki/Troubleshooting)
 
 ## Project Statistics
-
-[![Stargazers](https://reporoster.com/stars/AlienWolfX/UZ801-USB-MODEM)](https://github.com/AlienWolfX/UZ801-USB-MODEM/stargazers)
-
-<a href="https://www.star-history.com/#AlienWolfX/UZ801-USB-MODEM&Date">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=AlienWolfX/UZ801-USB-MODEM&type=Date&theme=dark" />
-        <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=AlienWolfX/UZ801-USB-MODEM&type=Date" />
-        <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=AlienWolfX/UZ801-USB-MODEM&type=Date" />
-    </picture>
+<a href="https://www.star-history.com/?repos=AlienWolfX%2FUZ801-USB-MODEM&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=AlienWolfX/UZ801-USB-MODEM&type=date&theme=dark&legend=top-left&sealed_token=Fvk4Y-MhzjNQ-rh2ASWI9JHpat3lIJyy07QxqfkYKkXKi-etvWhBhwM4y0mPaVph5DoVYumYYObE9Fwd5BqK8PX9djNr-bvrZPl0aEv90uZ4GpFxQT19wg" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=AlienWolfX/UZ801-USB-MODEM&type=date&legend=top-left&sealed_token=Fvk4Y-MhzjNQ-rh2ASWI9JHpat3lIJyy07QxqfkYKkXKi-etvWhBhwM4y0mPaVph5DoVYumYYObE9Fwd5BqK8PX9djNr-bvrZPl0aEv90uZ4GpFxQT19wg" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=AlienWolfX/UZ801-USB-MODEM&type=date&legend=top-left&sealed_token=Fvk4Y-MhzjNQ-rh2ASWI9JHpat3lIJyy07QxqfkYKkXKi-etvWhBhwM4y0mPaVph5DoVYumYYObE9Fwd5BqK8PX9djNr-bvrZPl0aEv90uZ4GpFxQT19wg" />
+ </picture>
 </a>
 
 ## Contributing
